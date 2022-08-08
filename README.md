@@ -1,7 +1,8 @@
 # Quizzical - A random quiz generator
+Live view at https://saragadalmawla.github.io/Quizzical/
+This is a solution to the Solo project assigned by Bob Ziroll at the scrimba react boot camp.  
+Link to the course: https://scrimba.com/learn/learnreact  
 
-This is a solution to the Solo project assigned by Bob Ziroll at the scrimba react boot camp.
-Link to the course: https://scrimba.com/learn/learnreact
 
 ## Table of contents
 
@@ -13,7 +14,6 @@ Link to the course: https://scrimba.com/learn/learnreact
   - [Continued development](#continued-development)
 
 ## Overview
-
 ### The challenge
 
 Users should be able to:
