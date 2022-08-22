@@ -18,7 +18,7 @@ Link to the course: https://scrimba.com/learn/learnreact
 
 Users should be able to:
 
-- Click start quiz to get random questions in the feild of computer science
+- Click start quiz to get random questions in the field of computer science
 - Solve the questions
 - Get the corrections after clicking check answers
 - Play again with new random questions
